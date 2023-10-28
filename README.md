@@ -1,4 +1,4 @@
-# Project:  Utilize SQL queries to find the most popular baby names in America in 100 year (1920-2020)
+# Project:  Utilize SQL queries to find the most popular baby names in America in 100 years (1920-2020)
 
 
 ## 1. Objective
