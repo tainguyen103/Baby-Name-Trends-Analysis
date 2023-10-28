@@ -11,7 +11,7 @@ We'll be working with data provided by the United States Social Security Adminis
 - SQL
 
 ## 3. Programming Report 
-The code report can be found in the notebook.ipynb file in the root directory of the project.
+The code report (with full annotation) can be found in the notebook.ipynb file in the root directory of the project.
 
 
 ## 4. Contributor
